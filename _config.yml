@@ -68,5 +68,6 @@ theme: jacman
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
 	type: git
-	repository: git@github.com:losetear/losetear.github.io.git
-	branch: master
+	repo: 
+		github: git@github.com:losetear/losetear.github.io.git,master
+		gitcafe: https://gitcafe.com/losetear/losetear.git,gitcafe-pages
