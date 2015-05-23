@@ -3,7 +3,7 @@ date: 2015-05-23 09:00:00
 categories:
 - Unity3D
 ---
-<h1>如何在Unity 3D中优化使用大量SkinedMeshRenderer1</h1>
+<h1>如何在Unity 3D中优化使用大量SkinedMeshRenderer</h1>
 
 Unity3D的核心优化要点就是Combine! 意思就是合并，模型和材质以及贴图最好都要合并。因为一个独立的模型和材质，渲染会占用一次Draw Call，而Draw Call的多少，是现代显卡的瓶颈所在，在手机上尤甚！
 
