@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ivan.Z
-subtitle: Blog My Life
+title: Indie Ivan
+subtitle: 记录独立游戏的点滴
 description:
 author: ivan.z
 language: zh-cn
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ivanz.info
+url: http://iivan.in
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
